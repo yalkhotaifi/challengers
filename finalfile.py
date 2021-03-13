@@ -1,4 +1,8 @@
-#Yasser
+#Yasser  , Yazed , Ali
+#Groupe Challengers
+#CSE 5408
+#Spring 2021
+#LAB04 Version Control System , GitHub-advanced.
 
 # a) Write a program containing a function to reverse a user inputted string.
 
