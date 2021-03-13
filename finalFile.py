@@ -94,3 +94,7 @@ if x:
     print("Not a Valid Password")
 
        
+<<<<<<< HEAD
+=======
+
+>>>>>>> ffd32aaee19d08148166fce4ba2722b8011e6b41
